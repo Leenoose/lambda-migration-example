@@ -1,6 +1,4 @@
-﻿//using Amazon.Lambda.APIGatewayEvents;
-//using Amazon.Lambda.AspNetCoreServer;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace cmw_dashboard.Controllers
 {
